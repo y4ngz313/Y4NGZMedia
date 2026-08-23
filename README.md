@@ -4,12 +4,20 @@ Public media assets used by Y4NGZ Thunderstore mod listings.
 
 ## Y4NGZUpgrades
 
-The `y4ngzupgrades/` directory contains gameplay GIFs used by the
-Y4NGZUpgrades package README. These files are listing media only and are not
-required by the mod at runtime.
+The `y4ngzupgrades/` directory contains screenshots and gameplay GIFs used by
+the Y4NGZUpgrades package README. These files are listing media only and are
+not required by the mod at runtime.
 
-| Upgrade | Preview |
+| Screen or demonstration | Preview |
 |---|---|
+| Player Menu - Overview | [player-menu.png](y4ngzupgrades/player-menu.png) |
+| Player Menu - Suits | [player-menu-suits.png](y4ngzupgrades/player-menu-suits.png) |
+| Player Menu - Cosmetics | [player-menu-cosmetics.png](y4ngzupgrades/player-menu-cosmetics.png) |
+| Player Menu - Emotes | [player-menu-emotes.png](y4ngzupgrades/player-menu-emotes.png) |
+| Enforcer tree | [enforcer-tree.png](y4ngzupgrades/enforcer-tree.png) |
+| Technician tree | [technician-tree.png](y4ngzupgrades/technician-tree.png) |
+| Ghost tree | [ghost-tree.png](y4ngzupgrades/ghost-tree.png) |
+| Foreman tree | [foreman-tree.png](y4ngzupgrades/foreman-tree.png) |
 | Escape Artist — Slide | [escape-artist-slide.gif](y4ngzupgrades/escape-artist-slide.gif) |
 | Escape Artist — Mantle | [escape-artist-mantle.gif](y4ngzupgrades/escape-artist-mantle.gif) |
 | Worklight | [worklight.gif](y4ngzupgrades/worklight.gif) |
