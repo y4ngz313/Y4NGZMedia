@@ -2,6 +2,18 @@
 
 Public media assets used by Y4NGZ Thunderstore mod listings.
 
+## Y4NGZUpgrades
+
+The `y4ngzupgrades/` directory contains gameplay GIFs used by the
+Y4NGZUpgrades package README. These files are listing media only and are not
+required by the mod at runtime.
+
+| Upgrade | Preview |
+|---|---|
+| Escape Artist — Slide | [escape-artist-slide.gif](y4ngzupgrades/escape-artist-slide.gif) |
+| Escape Artist — Mantle | [escape-artist-mantle.gif](y4ngzupgrades/escape-artist-mantle.gif) |
+| Worklight | [worklight.gif](y4ngzupgrades/worklight.gif) |
+
 ## LethalCCTV
 
 The `lethalcctv/` directory contains web-optimized gameplay GIFs for the
