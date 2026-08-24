@@ -39,8 +39,9 @@ required by the mod at runtime.
 | Arthrapod | [`arthrapod.gif`](anomalies/arthrapod.gif) |
 | Dreadweaver | [`dreadweaver.gif`](anomalies/dreadweaver.gif) |
 | Eye Monster | [`eye-monster.png`](anomalies/eye-monster.png) |
+| Harmonic | [`harmonic.gif`](anomalies/harmonic.gif) |
 | Hushdoll | [`hushdoll.gif`](anomalies/hushdoll.gif) |
 | Passenger | [`passenger.png`](anomalies/passenger.png) |
-| Simon Says | [`simon-says.png`](anomalies/simon-says.png) |
+| Simon Says | [`simon-says.gif`](anomalies/simon-says.gif) |
 | Snipjack | [`snipjack.gif`](anomalies/snipjack.gif) |
 | Warden | [`warden.png`](anomalies/warden.png) |
