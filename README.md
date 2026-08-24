@@ -16,6 +16,8 @@ not required by the mod at runtime.
 | Player Menu - Emotes | [player-menu-emotes.png](y4ngzupgrades/player-menu-emotes.png) |
 | Enforcer tree | [enforcer-tree.png](y4ngzupgrades/enforcer-tree.png) |
 | Technician tree | [technician-tree.png](y4ngzupgrades/technician-tree.png) |
+| Field Operations tablet | [field-operations-tablet.gif](y4ngzupgrades/field-operations-tablet.gif) |
+| Courier Drone | [courier-drone.png](y4ngzupgrades/courier-drone.png) |
 | Ghost tree | [ghost-tree.png](y4ngzupgrades/ghost-tree.png) |
 | Foreman tree | [foreman-tree.png](y4ngzupgrades/foreman-tree.png) |
 | Escape Artist — Slide | [escape-artist-slide.gif](y4ngzupgrades/escape-artist-slide.gif) |
