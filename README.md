@@ -20,8 +20,8 @@ not required by the mod at runtime.
 | Courier Drone | [courier-drone.png](y4ngzupgrades/courier-drone.png) |
 | Ghost tree | [ghost-tree.png](y4ngzupgrades/ghost-tree.png) |
 | Foreman tree | [foreman-tree.png](y4ngzupgrades/foreman-tree.png) |
-| Escape Artist — Slide | [escape-artist-slide.gif](y4ngzupgrades/escape-artist-slide.gif) |
-| Escape Artist — Mantle | [escape-artist-mantle.gif](y4ngzupgrades/escape-artist-mantle.gif) |
+| Escape Artist â€” Slide | [escape-artist-slide.gif](y4ngzupgrades/escape-artist-slide.gif) |
+| Escape Artist â€” Mantle | [escape-artist-mantle.gif](y4ngzupgrades/escape-artist-mantle.gif) |
 | Worklight | [worklight.gif](y4ngzupgrades/worklight.gif) |
 
 ## LethalCCTV
