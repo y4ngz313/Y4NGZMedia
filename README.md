@@ -20,8 +20,8 @@ not required by the mod at runtime.
 | Courier Drone | [courier-drone.png](y4ngzupgrades/courier-drone.png) |
 | Ghost tree | [ghost-tree.png](y4ngzupgrades/ghost-tree.png) |
 | Foreman tree | [foreman-tree.png](y4ngzupgrades/foreman-tree.png) |
-| Escape Artist â€” Slide | [escape-artist-slide.gif](y4ngzupgrades/escape-artist-slide.gif) |
-| Escape Artist â€” Mantle | [escape-artist-mantle.gif](y4ngzupgrades/escape-artist-mantle.gif) |
+| Escape Artist — Slide | [escape-artist-slide.gif](y4ngzupgrades/escape-artist-slide.gif) |
+| Escape Artist — Mantle | [escape-artist-mantle.gif](y4ngzupgrades/escape-artist-mantle.gif) |
 | Worklight | [worklight.gif](y4ngzupgrades/worklight.gif) |
 
 ## LethalCCTV
@@ -47,3 +47,10 @@ required by the mod at runtime.
 | Simon Says | [`simon-says.gif`](anomalies/simon-says.gif) |
 | Snipjack | [`snipjack.gif`](anomalies/snipjack.gif) |
 | Warden | [`warden.png`](anomalies/warden.png) |
+
+## ShipSystems
+
+The `shipsystems/` directory contains gameplay previews for the ShipSystems listing.
+These files are listing media only and are not required at runtime.
+
+- [Fuel acceptance](shipsystems/fuel-acceptance.gif)
