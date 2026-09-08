@@ -47,3 +47,10 @@ required by the mod at runtime.
 | Simon Says | [`simon-says.gif`](anomalies/simon-says.gif) |
 | Snipjack | [`snipjack.gif`](anomalies/snipjack.gif) |
 | Warden | [`warden.png`](anomalies/warden.png) |
+
+## ShipSystems
+
+The `shipsystems/` directory contains gameplay previews for the ShipSystems listing.
+These files are listing media only and are not required at runtime.
+
+- [Fuel acceptance](shipsystems/fuel-acceptance.gif)
