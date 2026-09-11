@@ -54,3 +54,22 @@ The `shipsystems/` directory contains gameplay previews for the ShipSystems list
 These files are listing media only and are not required at runtime.
 
 - [Fuel acceptance](shipsystems/fuel-acceptance.gif)
+
+## Contracted
+
+The `contracted/` directory contains the contract, escalation, and UI previews
+used by the Contracted Thunderstore README. These files are listing media only
+and are not required by the mod at runtime.
+
+| Feature | Preview |
+|---|---|
+| Ship monitor assignment | [`ship-monitor.png`](contracted/ship-monitor.png) |
+| Containment Breach | [`containment-breach.gif`](contracted/containment-breach.gif) |
+| Shadow Raid | [`shadow-raid.png`](contracted/shadow-raid.png) |
+| Payload | [`payload.gif`](contracted/payload.gif) |
+| Pest Control | [`pest-control.gif`](contracted/pest-control.gif) |
+| Waste Disposal | [`waste-disposal.png`](contracted/waste-disposal.png) |
+| Performance report | [`performance-report.png`](contracted/performance-report.png) |
+| The Stranger | [`the-stranger.gif`](contracted/the-stranger.gif) |
+| Blacksite Retrieval - Raid | [`blacksite-retrieval.gif`](contracted/blacksite-retrieval.gif) |
+| Blacksite Retrieval - Idle | [`blacksite-idle.gif`](contracted/blacksite-idle.gif) |
