@@ -54,6 +54,10 @@ The `shipsystems/` directory contains gameplay previews for the ShipSystems list
 These files are listing media only and are not required at runtime.
 
 - [Fuel acceptance](shipsystems/fuel-acceptance.gif)
+- [Fuel items](shipsystems/items.png)
+- [Ship fuel monitor](shipsystems/monitor.png)
+- [Terminal fuel costs](shipsystems/terminal.png)
+- [Battery critical warnings](shipsystems/battery-critical.gif)
 
 ## Contracted
 
